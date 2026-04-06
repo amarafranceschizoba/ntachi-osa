@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ntachi-Osa | Authentic Igbo Cuisine</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+  <!-- Hero Section with Real Image -->
+  <section class="relative h-[70vh] flex items-center justify-center text-center text-white">
+    <img src="Ntachi osa main 2.png" alt="Ntachi Osa Building" class="absolute inset-0 w-full h-full object-cover">
+    <div class="absolute inset-0 bg-black/60"></div>
+    <div class="relative z-10 px-4">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">Experience Authentic Igbo Cuisine</h1>
+      <p class="text-lg mb-6">Rich local flavors served fresh in Enugu</p>
+      <a href="tel:+2348112386317" class="bg-yellow-500 text-black px-6 py-3 rounded-2xl font-semibold">Call to Order</a>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="py-12 px-6 max-w-4xl mx-auto text-center">
+    <h2 class="text-2xl font-bold mb-4">Welcome to Ntachi-Osa</h2>
+    <p>Ntachi-Osa is one of Enugu’s most loved restaurants, known for authentic Igbo meals, vibrant atmosphere, and consistent quality.</p>
+  </section>
+
+  <!-- Food Image Section -->
+  <section class="py-12 px-6 bg-white text-center">
+    <h2 class="text-2xl font-bold mb-6">Our Meals</h2>
+    <img src="ntachi osa 4 main.png" alt="Food Display" class="mx-auto rounded-2xl shadow-lg max-w-4xl w-full">
+  </section>
+
+  <!-- Menu Section -->
+  <section class="bg-gray-100 py-12 px-6">
+    <h2 class="text-2xl font-bold text-center mb-8">Popular Dishes</h2>
+    <div class="grid md:grid-cols-4 gap-6 max-w-6xl mx-auto">
+      <div class="bg-white p-4 rounded-xl text-center shadow">
+        <h3 class="font-semibold">Ukwa</h3>
+        <p>African breadfruit delicacy</p>
+      </div>
+      <div class="bg-white p-4 rounded-xl text-center shadow">
+        <h3 class="font-semibold">Ofe Nsala</h3>
+        <p>White soup with fish or meat</p>
+      </div>
+      <div class="bg-white p-4 rounded-xl text-center shadow">
+        <h3 class="font-semibold">Achicha</h3>
+        <p>Traditional dried cocoyam meal</p>
+      </div>
+      <div class="bg-white p-4 rounded-xl text-center shadow">
+        <h3 class="font-semibold">Isi Ewu</h3>
+        <p>Spicy goat head delicacy</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Locations Section -->
+  <section class="py-12 px-6 text-center">
+    <h2 class="text-2xl font-bold mb-6">Our Locations</h2>
+    <div class="space-y-4">
+      <p><strong>New Haven Branch:</strong><br>97 Chime Avenue, Enugu<br>📞 +234 811 238 6317</p>
+      <p><strong>Independence Layout Branch:</strong><br>3 First Avenue, Enugu<br>📞 +234 806 331 3480</p>
+    </div>
+  </section>
+
+  <!-- Reviews Section -->
+  <section class="py-12 px-6 bg-white text-center">
+    <h2 class="text-2xl font-bold mb-6">Loved by Customers</h2>
+    <p class="max-w-2xl mx-auto">With thousands of satisfied customers, Ntachi-Osa remains a top destination for authentic Nigerian cuisine in Enugu.</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-black text-white text-center py-6">
+    <p>&copy; 2026 Ntachi-Osa. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
